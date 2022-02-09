@@ -1,0 +1,11 @@
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\bin\Debug\Projeto Hello World.exe.config
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\bin\Debug\Projeto Hello World.exe
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\bin\Debug\Projeto Hello World.pdb
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.csproj.AssemblyReference.cache
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.csproj.SuggestedBindingRedirects.cache
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto_Hello_World.Form1.resources
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto_Hello_World.Properties.Resources.resources
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.csproj.GenerateResource.cache
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.csproj.CoreCompileInputs.cache
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.exe
+W:\repositorios\4_manha\Projeto Hello World\Projeto Hello World\obj\Debug\Projeto Hello World.pdb
