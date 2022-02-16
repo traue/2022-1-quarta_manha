@@ -1,0 +1,11 @@
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\bin\Debug\Primeiro Projeto Winforms.exe.config
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\bin\Debug\Primeiro Projeto Winforms.exe
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\bin\Debug\Primeiro Projeto Winforms.pdb
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro_Projeto_Winforms.Properties.Resources.resources
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.exe
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro Projeto Winforms.pdb
+Y:\repositorios\4_manha\Primeiro Projeto Winforms\Primeiro Projeto Winforms\obj\Debug\Primeiro_Projeto_Winforms.FrmPrincipal.resources

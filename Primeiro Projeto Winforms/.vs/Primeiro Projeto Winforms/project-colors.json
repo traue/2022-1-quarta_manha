@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8957bbe-dee6-4cca-8524-29dad0a47bc4": {
+      "ProjectGuid": "c8957bbe-dee6-4cca-8524-29dad0a47bc4",
+      "DisplayName": "Primeiro Projeto Winforms",
+      "ColorIndex": 0
+    },
+    "27d3071d-23b3-4ee0-bd3a-824b34d83f29": {
+      "ProjectGuid": "27d3071d-23b3-4ee0-bd3a-824b34d83f29",
+      "DisplayName": "Teste",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
