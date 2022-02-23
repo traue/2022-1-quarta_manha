@@ -16,5 +16,10 @@ namespace Primeiro_Projeto_Winforms
         {
             InitializeComponent();
         }
+
+        private void btConfirma_Click(object sender, EventArgs e)
+        {
+            lbResultado.Text = $"Olá {txtNome.Text}, seja muito bem-vindo(a)!";
+        }
     }
 }
