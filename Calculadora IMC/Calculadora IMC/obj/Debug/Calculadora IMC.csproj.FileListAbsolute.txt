@@ -1,0 +1,10 @@
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
