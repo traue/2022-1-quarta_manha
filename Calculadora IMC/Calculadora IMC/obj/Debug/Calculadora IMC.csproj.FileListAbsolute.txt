@@ -8,3 +8,4 @@ Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IM
 Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
 Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
 Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
+Y:\repositorios\4_manha\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.FrmPrincipal.resources
