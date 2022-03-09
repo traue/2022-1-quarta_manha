@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Primeiro_Projeto_Winforms
@@ -19,7 +12,21 @@ namespace Primeiro_Projeto_Winforms
 
         private void btConfirma_Click(object sender, EventArgs e)
         {
-            lbResultado.Text = $"Olá {txtNome.Text}, seja muito bem-vindo(a)!";
+            if (txtNome.Text.Trim().Length != 0)
+            {
+                lbResultado.Text = $"Olá {txtNome.Text}, seja muito bem-vindo(a)!";
+            }
+            else
+            {
+                MessageBox.Show("Ops... informe o nome!", "Erro!");
+            }
+        }
+
+        private void btLimpar_Click(object sender, EventArgs e)
+        {
+            lbResultado.Text = "Digite seu nome!";
+            txtNome.Text = "";
+            txtNome.Focus();
         }
     }
 }
