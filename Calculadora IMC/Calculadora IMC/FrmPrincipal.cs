@@ -16,5 +16,14 @@ namespace Calculadora_IMC
         {
             InitializeComponent();
         }
+
+        private void btCalcular_Click(object sender, EventArgs e)
+        {
+            Imc imc = new Imc();
+            imc.Altura = float.Parse(txtAltura.Text);
+            imc.Peso = float.Parse(txtPeso.Text);
+            lbResultadoIMC.Text = imc.calculaImc().ToString();
+            lbResultadoIMC.Visible = true;
+        }
     }
 }
