@@ -23,15 +23,44 @@
             return imc;
         }
 
-        /**
-         * 
-         * Desafio do tio:
-         * 
-         * Implementar o processo de classificação 
-         * usando a tabela disponível em
-         * https://arquivos.sbn.org.br/equacoes/eq5.htm
-         * 
-         * Desafio 2: Deixar o IMC com apenas duas casas decimais
-         */
+        public string classificaIMC(float imc)
+        {
+            string classificacao = "";
+
+            if (imc < 16)
+            {
+                classificacao = "Magreza grau III";
+            }
+            else if (imc >= 16 && imc <= 16.9)
+            {
+                classificacao = "Magreza grau II";
+            }
+            else if (imc >= 17 && imc <= 18.4)
+            {
+                classificacao = "Magreza grau I";
+            }
+            else if (imc >= 18.5 && imc < 25)
+            {
+                classificacao = "Adequado";
+            }
+            else if (imc >= 25 && imc < 30)
+            {
+                classificacao = "Pré-obeso";
+            }
+            else if (imc >= 30 && imc < 35)
+            {
+                classificacao = "Obesidade grau I";
+            }
+            else if (imc >= 36 && imc <= 40)
+            {
+                classificacao = "Obesidade grau II";
+            }
+            else
+            {
+                classificacao = "Obseidade grau III";
+            }
+
+            return classificacao;
+        }
     }
 }

@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Calculadora_IMC
@@ -22,8 +15,13 @@ namespace Calculadora_IMC
             Imc imc = new Imc();
             imc.Altura = float.Parse(txtAltura.Text);
             imc.Peso = float.Parse(txtPeso.Text);
-            lbResultadoIMC.Text = imc.calculaImc().ToString();
+            float resultadoIMC = imc.calculaImc();
+
+            lbResultadoIMC.Text = "IMC: " + resultadoIMC.ToString("0.00");
             lbResultadoIMC.Visible = true;
+
+            lbClassificacao.Text = "Classificação: " + imc.classificaIMC(resultadoIMC);
+            lbClassificacao.Visible = true;
         }
     }
 }
