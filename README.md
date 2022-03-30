@@ -4,7 +4,7 @@ Prof. Thiago G. Traue
 
 thiago.traue@uni9.pro.br
 
-Classroom da disciplina: [NESTE LINK](https://classroom.google.com/c/NDY1OTgwNzA0ODYw?cjc=6hg5sxq)
+CLASSROOM DA DISCIPLINA: [NESTE LINK](https://classroom.google.com/c/NDY1OTgwNzA0ODYw?cjc=6hg5sxq)
 
 ---
 
@@ -17,6 +17,10 @@ Para preparar o ambiente de desenvolvimento, você pode seguir o documento [NEST
 ## Atividades
 
 TODAS as atividdes desta disciplina serão ministradas via Classroom. Fique atento(a).
+
+Relação de atividades:
+
+- Atividade 1: De 30.03 até 28.04, 09h - Em andamento
 
 ## Critérios de Avaliação
 
