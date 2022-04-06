@@ -120,6 +120,7 @@
             this.btCalcular.TabIndex = 7;
             this.btCalcular.Text = "Calcular";
             this.btCalcular.UseVisualStyleBackColor = false;
+            this.btCalcular.Click += new System.EventHandler(this.btCalcular_Click);
             // 
             // lbDelta
             // 
@@ -129,31 +130,34 @@
             this.lbDelta.Size = new System.Drawing.Size(121, 37);
             this.lbDelta.TabIndex = 8;
             this.lbDelta.Text = "DELTA";
+            this.lbDelta.Visible = false;
             // 
             // lbXP
             // 
             this.lbXP.AutoSize = true;
-            this.lbXP.Location = new System.Drawing.Point(12, 432);
+            this.lbXP.Location = new System.Drawing.Point(12, 394);
             this.lbXP.Name = "lbXP";
             this.lbXP.Size = new System.Drawing.Size(45, 37);
             this.lbXP.TabIndex = 9;
             this.lbXP.Text = "X\'";
+            this.lbXP.Visible = false;
             // 
             // lbXN
             // 
             this.lbXN.AutoSize = true;
-            this.lbXN.Location = new System.Drawing.Point(12, 550);
+            this.lbXN.Location = new System.Drawing.Point(8, 468);
             this.lbXN.Name = "lbXN";
             this.lbXN.Size = new System.Drawing.Size(49, 37);
             this.lbXN.TabIndex = 10;
             this.lbXN.Text = "X\"";
+            this.lbXN.Visible = false;
             // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(1057, 605);
+            this.ClientSize = new System.Drawing.Size(899, 561);
             this.Controls.Add(this.lbXN);
             this.Controls.Add(this.lbXP);
             this.Controls.Add(this.lbDelta);
