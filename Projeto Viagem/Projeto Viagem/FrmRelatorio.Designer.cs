@@ -28,19 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.rtRelatorio = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
+            // 
+            // rtRelatorio
+            // 
+            this.rtRelatorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtRelatorio.Location = new System.Drawing.Point(12, 12);
+            this.rtRelatorio.Name = "rtRelatorio";
+            this.rtRelatorio.Size = new System.Drawing.Size(1064, 646);
+            this.rtRelatorio.TabIndex = 0;
+            this.rtRelatorio.Text = "";
             // 
             // FrmRelatorio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(814, 608);
+            this.ClientSize = new System.Drawing.Size(1088, 792);
+            this.Controls.Add(this.rtRelatorio);
             this.Name = "FrmRelatorio";
-            this.Text = "FrmRelatorio";
+            this.Text = "Relatório da Viagem";
+            this.Load += new System.EventHandler(this.FrmRelatorio_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.RichTextBox rtRelatorio;
     }
 }

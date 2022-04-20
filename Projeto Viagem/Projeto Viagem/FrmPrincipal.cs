@@ -35,11 +35,8 @@ namespace Projeto_Viagem
                 //if ternário...
                 pedagio = ckGastoPedagio.Checked ? float.Parse(txtPedagio.Text) : 0;
 
-                //paramos aqui...
-                //falta:
-                //1 - Fazer o formRelatorio suportar a passagem de parâmetros
-                //2 - Fazer os cálculos
-                //3 - Mostrar no relatório
+                FrmRelatorio frmRelatorio = new FrmRelatorio(distancia, consumo, combustivel, pedagio);
+                frmRelatorio.Show();
             }
             catch(Exception)
             {
