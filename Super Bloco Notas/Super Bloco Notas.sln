@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Bloco Notas", "Super Bloco Notas\Super Bloco Notas.csproj", "{EAD16CA9-2B45-4897-A2C0-C1E1D837F521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD16CA9-2B45-4897-A2C0-C1E1D837F521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD16CA9-2B45-4897-A2C0-C1E1D837F521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD16CA9-2B45-4897-A2C0-C1E1D837F521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD16CA9-2B45-4897-A2C0-C1E1D837F521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4ABDAC8-AE1F-4137-B4C1-9A04D42B7F54}
+	EndGlobalSection
+EndGlobal
