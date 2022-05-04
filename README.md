@@ -20,9 +20,10 @@ TODAS as atividdes desta disciplina serão ministradas via Classroom. Fique aten
 
 Relação de atividades:
 
-- **Atividade 1**: De 30.03 até 04.05, 09h - Em andamento
+- **Atividade 1**: De 30.03 até 04.05, 09h - Encerrada
 - **Atividade 2**: De 13.04 até 11.05, 09h - Em andamento
 - **Atividade 3**: De 20.04 até 18.05, 09h - Em andamento
+- **Atividade 4**: De 04.05 até 01.06, 09h - Em andamento
 
 ## Critérios de Avaliação
 
