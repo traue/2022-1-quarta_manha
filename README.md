@@ -25,6 +25,12 @@ Relação de atividades:
 - **Atividade 3**: De 20.04 até 18.05, 09h - Em andamento
 - **Atividade 4**: De 04.05 até 01.06, 09h - Em andamento
 
+Atividades especiais:
+
+As atividades especiais são atividades desafio que contam nota normalmente:
+
+- **Atividade especial 1**: De 04.05 até 05.05, 23:59h
+
 ## Critérios de Avaliação
 
 Este professor não utiliza nenhuma prova para realizar a avaliação da turma, apenas atividades disponibilizadas durante o semestre.
