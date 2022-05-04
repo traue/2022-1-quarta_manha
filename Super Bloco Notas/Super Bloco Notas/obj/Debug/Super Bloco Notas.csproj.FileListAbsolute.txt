@@ -1,0 +1,12 @@
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.exe.config
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.exe
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.pdb
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.FrmPrincipal.resources
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.Properties.Resources.resources
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.exe
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.pdb
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.FrmFilha.resources
