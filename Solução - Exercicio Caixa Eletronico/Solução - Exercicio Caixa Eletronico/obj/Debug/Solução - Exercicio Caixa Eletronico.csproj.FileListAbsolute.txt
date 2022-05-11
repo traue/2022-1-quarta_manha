@@ -1,0 +1,11 @@
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\bin\Debug\Solução - Exercicio Caixa Eletronico.exe.config
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\bin\Debug\Solução - Exercicio Caixa Eletronico.exe
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\bin\Debug\Solução - Exercicio Caixa Eletronico.pdb
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução___Exercicio_Caixa_Eletronico.FrmCaixa.resources
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução___Exercicio_Caixa_Eletronico.Properties.Resources.resources
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.exe
+Y:\repositorios\4_manha\Solução - Exercicio Caixa Eletronico\Solução - Exercicio Caixa Eletronico\obj\Debug\Solução - Exercicio Caixa Eletronico.pdb
