@@ -1,0 +1,11 @@
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\bin\Debug\Solução - Exercicio SomaAN.exe.config
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\bin\Debug\Solução - Exercicio SomaAN.exe
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\bin\Debug\Solução - Exercicio SomaAN.pdb
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução___Exercicio_SomaAN.Form1.resources
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução___Exercicio_SomaAN.Properties.Resources.resources
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.exe
+Y:\repositorios\4_manha\Solução - Exercicio SomaAN\Solução - Exercicio SomaAN\obj\Debug\Solução - Exercicio SomaAN.pdb
