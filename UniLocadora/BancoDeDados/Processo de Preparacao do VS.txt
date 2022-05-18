@@ -1,0 +1,15 @@
+Preparação do ambiente de desenvolvimento .NET com MySQL
+
+
+
+Se você tem VS 2019 (ou anterior) baixe o MySQL para VS, deste link: https://dev.mysql.com/downloads/windows/visualstudio/
+
+
+
+Todos (inclusive VS 2022)
+
+Baixe o driver de conexão, neste link: https://dev.mysql.com/downloads/connector/net/
+
+
+Faça a instalação normalmente dele(s). Apenas observe que deves selecionar a versão "Complete" durante a instalação.
+
