@@ -10,3 +10,7 @@ Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloc
 Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.exe
 Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.pdb
 Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super_Bloco_Notas.FrmFilha.resources
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.exe.manifest
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\bin\Debug\Super Bloco Notas.application
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.exe.manifest
+Y:\repositorios\4_manha\Super Bloco Notas\Super Bloco Notas\obj\Debug\Super Bloco Notas.application
