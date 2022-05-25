@@ -26,6 +26,8 @@ Relação de atividades:
 - **Atividade 4**: De 04.05 até 01.06, 09h - Em andamento
 - **Atividade 5**: De 18.05 até 08.06, 09h - Em andamento
 
+**Atividade de Recuperação:** 15.06, em aula
+
 Atividades especiais:
 
 As atividades especiais são atividades desafio que contam nota normalmente:
