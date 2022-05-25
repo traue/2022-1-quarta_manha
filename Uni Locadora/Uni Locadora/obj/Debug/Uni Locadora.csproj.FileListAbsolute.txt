@@ -1,0 +1,11 @@
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.exe.config
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.exe
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.pdb
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni_Locadora.FrmPrincipal.resources
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni_Locadora.Properties.Resources.resources
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.exe
+Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.pdb
