@@ -9,3 +9,38 @@ Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.
 Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.CoreCompileInputs.cache
 Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.exe
 Y:\repositorios\4_manha\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.pdb
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.exe.config
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.exe
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Uni Locadora.pdb
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\BouncyCastle.Crypto.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Google.Protobuf.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Compression.LZ4.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Hash.xxHash.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\MySql.Data.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Buffers.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Memory.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Numerics.Vectors.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Ubiety.Dns.Core.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\ZstdNet.dll
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Google.Protobuf.pdb
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\Google.Protobuf.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Compression.LZ4.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\K4os.Hash.xxHash.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\MySql.Data.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Buffers.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Memory.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Numerics.Vectors.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.AssemblyReference.cache
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.SuggestedBindingRedirects.cache
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni_Locadora.FrmCadastroCliente.resources
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni_Locadora.FrmPrincipal.resources
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni_Locadora.Properties.Resources.resources
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.GenerateResource.cache
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.CoreCompileInputs.cache
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.csproj.CopyComplete
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.exe
+Y:\repositorios\4_manha\UniLocadora\Uni Locadora\Uni Locadora\obj\Debug\Uni Locadora.pdb

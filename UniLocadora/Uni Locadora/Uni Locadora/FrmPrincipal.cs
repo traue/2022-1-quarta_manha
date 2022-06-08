@@ -21,5 +21,12 @@ namespace Uni_Locadora
         {
             Dispose();
         }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCadastroCliente frmCadastroCliente = new FrmCadastroCliente();
+            frmCadastroCliente.MdiParent = this;
+            frmCadastroCliente.Show();
+        }
     }
 }

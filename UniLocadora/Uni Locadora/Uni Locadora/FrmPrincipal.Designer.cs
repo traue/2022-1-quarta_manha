@@ -43,6 +43,7 @@
             // 
             // menuStrip
             // 
+            this.menuStrip.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip.ImageScalingSize = new System.Drawing.Size(32, 32);
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.arquivoToolStripMenuItem,
@@ -50,7 +51,7 @@
             this.movimentaçãoToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Size = new System.Drawing.Size(1248, 40);
+            this.menuStrip.Size = new System.Drawing.Size(1248, 42);
             this.menuStrip.TabIndex = 1;
             this.menuStrip.Text = "menuStrip1";
             // 
@@ -59,14 +60,14 @@
             this.arquivoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.sairToolStripMenuItem});
             this.arquivoToolStripMenuItem.Name = "arquivoToolStripMenuItem";
-            this.arquivoToolStripMenuItem.Size = new System.Drawing.Size(117, 36);
+            this.arquivoToolStripMenuItem.Size = new System.Drawing.Size(117, 38);
             this.arquivoToolStripMenuItem.Text = "A&rquivo";
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.F4)));
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(270, 44);
             this.sairToolStripMenuItem.Text = "&Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -76,7 +77,7 @@
             this.clientesToolStripMenuItem,
             this.veículosToolStripMenuItem});
             this.cadatroToolStripMenuItem.Name = "cadatroToolStripMenuItem";
-            this.cadatroToolStripMenuItem.Size = new System.Drawing.Size(127, 36);
+            this.cadatroToolStripMenuItem.Size = new System.Drawing.Size(127, 38);
             this.cadatroToolStripMenuItem.Text = "&Cadastro";
             // 
             // clientesToolStripMenuItem
@@ -84,6 +85,7 @@
             this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
             this.clientesToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
             this.clientesToolStripMenuItem.Text = "&Clientes";
+            this.clientesToolStripMenuItem.Click += new System.EventHandler(this.clientesToolStripMenuItem_Click);
             // 
             // veículosToolStripMenuItem
             // 
@@ -97,19 +99,19 @@
             this.locaçãoToolStripMenuItem,
             this.devoluçãoToolStripMenuItem});
             this.movimentaçãoToolStripMenuItem.Name = "movimentaçãoToolStripMenuItem";
-            this.movimentaçãoToolStripMenuItem.Size = new System.Drawing.Size(193, 36);
+            this.movimentaçãoToolStripMenuItem.Size = new System.Drawing.Size(193, 38);
             this.movimentaçãoToolStripMenuItem.Text = "&Movimentação";
             // 
             // locaçãoToolStripMenuItem
             // 
             this.locaçãoToolStripMenuItem.Name = "locaçãoToolStripMenuItem";
-            this.locaçãoToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.locaçãoToolStripMenuItem.Size = new System.Drawing.Size(260, 44);
             this.locaçãoToolStripMenuItem.Text = "&Locação";
             // 
             // devoluçãoToolStripMenuItem
             // 
             this.devoluçãoToolStripMenuItem.Name = "devoluçãoToolStripMenuItem";
-            this.devoluçãoToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.devoluçãoToolStripMenuItem.Size = new System.Drawing.Size(260, 44);
             this.devoluçãoToolStripMenuItem.Text = "&Devolução";
             // 
             // FrmPrincipal

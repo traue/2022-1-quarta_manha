@@ -37,6 +37,9 @@
             this.txtNome = new System.Windows.Forms.TextBox();
             this.txtCPF = new System.Windows.Forms.MaskedTextBox();
             this.txtDtnasc = new System.Windows.Forms.MaskedTextBox();
+            this.btSalvar = new System.Windows.Forms.Button();
+            this.btExcluir = new System.Windows.Forms.Button();
+            this.btPesquisar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbCodigo
@@ -107,11 +110,43 @@
             this.txtDtnasc.TabIndex = 7;
             this.txtDtnasc.ValidatingType = typeof(System.DateTime);
             // 
+            // btSalvar
+            // 
+            this.btSalvar.Location = new System.Drawing.Point(12, 328);
+            this.btSalvar.Name = "btSalvar";
+            this.btSalvar.Size = new System.Drawing.Size(281, 63);
+            this.btSalvar.TabIndex = 8;
+            this.btSalvar.Text = "Incluir Cliente";
+            this.btSalvar.UseVisualStyleBackColor = true;
+            this.btSalvar.Click += new System.EventHandler(this.btSalvar_Click);
+            // 
+            // btExcluir
+            // 
+            this.btExcluir.Enabled = false;
+            this.btExcluir.Location = new System.Drawing.Point(321, 328);
+            this.btExcluir.Name = "btExcluir";
+            this.btExcluir.Size = new System.Drawing.Size(300, 63);
+            this.btExcluir.TabIndex = 9;
+            this.btExcluir.Text = "Excluir Cliente";
+            this.btExcluir.UseVisualStyleBackColor = true;
+            // 
+            // btPesquisar
+            // 
+            this.btPesquisar.Location = new System.Drawing.Point(18, 428);
+            this.btPesquisar.Name = "btPesquisar";
+            this.btPesquisar.Size = new System.Drawing.Size(264, 63);
+            this.btPesquisar.TabIndex = 10;
+            this.btPesquisar.Text = "Procurar Cliente";
+            this.btPesquisar.UseVisualStyleBackColor = true;
+            // 
             // FrmCadastroCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 33F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1455, 449);
+            this.ClientSize = new System.Drawing.Size(1455, 503);
+            this.Controls.Add(this.btPesquisar);
+            this.Controls.Add(this.btExcluir);
+            this.Controls.Add(this.btSalvar);
             this.Controls.Add(this.txtDtnasc);
             this.Controls.Add(this.txtCPF);
             this.Controls.Add(this.txtNome);
@@ -140,5 +175,8 @@
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.MaskedTextBox txtCPF;
         private System.Windows.Forms.MaskedTextBox txtDtnasc;
+        private System.Windows.Forms.Button btSalvar;
+        private System.Windows.Forms.Button btExcluir;
+        private System.Windows.Forms.Button btPesquisar;
     }
 }
