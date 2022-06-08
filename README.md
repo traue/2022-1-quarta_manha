@@ -23,8 +23,8 @@ Relação de atividades:
 - **Atividade 1**: De 30.03 até 04.05, 09h - Encerrada
 - **Atividade 2**: De 13.04 até 11.05, 09h - Encerrada
 - **Atividade 3**: De 20.04 até 18.05, 09h - Encerrada
-- **Atividade 4**: De 04.05 até 01.06, 09h - Em andamento
-- **Atividade 5**: De 18.05 até 08.06, 09h - Em andamento
+- **Atividade 4**: De 04.05 até 01.06, 09h - Encerrada
+- **Atividade 5**: De 18.05 até 08.06, 09h - Encerrada
 
 **Atividade de Recuperação:** 15.06, em aula
 
